@@ -1,4 +1,4 @@
-# Programación 2
+# Programación 1
 
 ## Tabla de contenidos
 
@@ -10,14 +10,11 @@
 
 ## Fundamentación
 
-La asignatura de Programación 2 constituye una progresión natural en la formación de los estudiantes que han completado el curso de Programación 1, donde adquirieron habilidades básicas en programación estructurada utilizando el lenguaje C. En este nuevo curso, se busca ampliar el conocimiento y las habilidades de los estudiantes al abordar técnicas de programación más avanzadas y al introducir el análisis y diseño de algoritmos y estructuras de datos, utilizando tanto C como C++ para explorar diferentes enfoques y paradigmas.
-En el contexto actual de la industria del software y la tecnología de la información, es esencial que los estudiantes dominen no solo habilidades de programación básicas, sino también conceptos más avanzados y abstractos como el análisis de algoritmos y la implementación de tipos abstractos de datos (TAD). Estos temas permiten a los estudiantes enfrentar problemas más complejos y desarrollar soluciones de software eficientes y escalables, lo cual es fundamental en un mundo donde las aplicaciones y sistemas informáticos están en constante evolución.
-El estudio de diferentes enfoques para la implementación de TAD en C y C++ es un aspecto crucial de este curso. Al utilizar C++ junto con C, los estudiantes podrán contrastar y comprender las diferencias entre la programación estructurada y la programación orientada a objetos, así como las ventajas y desventajas de cada enfoque. Esta experiencia les permitirá tomar decisiones más informadas sobre qué enfoque utilizar en función de las necesidades y requisitos específicos de los proyectos en los que trabajen.
-Además, este curso tiene como objetivo fomentar el pensamiento crítico y analítico de los estudiantes al enfrentar problemas y desafíos en el desarrollo de software. Mediante la exploración de conceptos como grafos, algoritmos de mínimo costo y análisis de eficiencia algorítmica, los estudiantes aprenderán a evaluar y diseñar soluciones óptimas para problemas reales y aplicaciones prácticas en el ámbito de la informática.
+Aqui la fundamentacion
 
 ## Objetivos
 
-Desarrollar habilidades en programación avanzada en C y C++, fomentando el pensamiento crítico y
+Desarrollar habilidades en programación avanzada en C, fomentando el pensamiento crítico y
 la capacidad de adaptación a diferentes entornos y contextos, con el fin de crear soluciones
 innovadoras y eficientes a problemas reales.
 
@@ -84,6 +81,8 @@ La incorporación de GitHub en la metodología de trabajo permitirá a los estud
 
 ## Secuencia de contenidos
 
+Los nuevos de P1
+
 - Análisis de algoritmos
   - Concepto y características de los algoritmos.
   - Conceptos fundamentales
@@ -124,6 +123,8 @@ La incorporación de GitHub en la metodología de trabajo permitirá a los estud
 
 ## Bibliografía
 
+Los de P1 y C
+
 - Deitel, H. M., & Deitel, P. J. (1998). Como Programar en C/C++ (2da ed.). Prentice Hall.
 - Deitel, P., & Deitel, H. (2016). C++ How to Program (10th ed.). Pearson.
 - Gottfried, B. S. (1997). Programación en C. Serie Schaum. Mc Graw Hill. México.
@@ -133,4 +134,4 @@ La incorporación de GitHub en la metodología de trabajo permitirá a los estud
 - Schildt, H. (2001). C Manual de Referencia (4ª ed.). Mc Graw Hill. España.
 - Stroustrup, B. (2013). The C++ Programming Language (4th ed.). Addison-Wesley Professional.
 
-[Ver documentación aquí](https://domingo1987.github.io/Curso-CPP/docs/html/index.html)
+[Ver documentación aquí](https://domingo1987.github.io/Curso-C/docs/html/index.html)
