@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hola, mundo de C!");
+    printf("Hola, mundo de C, hoy es un dia de 2023!");
     
     return 0;
 }
